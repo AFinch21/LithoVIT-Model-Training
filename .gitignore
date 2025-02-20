@@ -170,4 +170,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-VIT Beans/models
+Base_Data/
+VIT_Beans_3_classes/models
+VIT_Rocks_5_classes/models
+VIT_Beans_3_classes/Data
+VIT_Rocks_5_classes/Data
+
+VIT_Rocks_10_classes/models
+VIT_Rocks_10_classes/Data/Rocks
